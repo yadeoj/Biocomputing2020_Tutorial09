@@ -1,5 +1,4 @@
 #Problem 2 of Exercise 7 for Biocomputing
-#By: Joseph Day
 
 #First, import the data wherever it is on your computer
 
